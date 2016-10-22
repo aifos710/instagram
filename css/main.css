@@ -1,0 +1,18 @@
+.bg{
+	background: url(../assets/img/fondo.jpg) no-repeat;
+	background-size: cover;
+	overflow:hidden;
+	min-height: 100vh;
+	min-width: 100vw;
+	background-position: center;
+
+}
+
+.face {
+	width: 80%;
+}
+
+.sign-up{
+	text-decoration: none;
+}
+
