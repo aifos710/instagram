@@ -1,4 +1,4 @@
-.bg{
+/* .bg{
 	background: url(../assets/img/fondo.jpg) no-repeat;
 	background-size: cover;
 	overflow:hidden;
@@ -6,6 +6,10 @@
 	min-width: 100vw;
 	background-position: center;
 
+} */
+
+.vh{
+	height: 100vh;
 }
 
 .face {
@@ -16,3 +20,32 @@
 	text-decoration: none;
 }
 
+.logo2{
+	width:120%;
+}
+
+.mg-10{
+	margin-top: 10px;
+}
+
+.iconosAbajo{
+	display: inline-block;
+	margin: 0px 15px;
+}
+
+.bottom{
+	margin-top: 10px;
+	bottom: 0;
+	position: absolute;
+	background-color: white;
+	width: 100vw;
+}
+
+.tumb{
+	height:100px;
+	width:100px;
+}
+
+.imgs{
+	position: relative;
+}
